@@ -22,3 +22,10 @@
 <h3>Here After Save Complete  form  filled interface looks like this, here We can submit our form</h3>
 
 ![pic4](https://github.com/amitrizz/Online-registration/assets/74492526/76973cee-5f8b-4247-93d4-0d5b6850396d)
+
+<br>
+<br>
+<h3>Automatic unique Registration number genrate for user</h3>
+
+![image](https://github.com/amitrizz/Online-registration/assets/74492526/17da4a17-2873-49c9-8114-8a8bc6e0e4a2)
+

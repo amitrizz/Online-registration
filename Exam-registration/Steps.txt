@@ -1,0 +1,11 @@
+Postgresql -> password=>Amit@1234  for my local posgresql
+
+step 1 download from Github
+step 2 download posgresql and registred yourself
+step 3 install virtualenv ( pip install virtualenv)
+step 4 create virtual environment (virtualenv <name of env>)
+step 5 <name of env>/Scripts/activate  enter
+step 6 pip install -r .\requirements.txt  run this command
+step 7 update password to your posgresql password
+step 8 run py app.py
+step 9 deactivate   when want to out from environment
